@@ -1,12 +1,12 @@
-# Dr. Yogesh Deshmukh's Portfolio Website
+Akshada Deokar Portfolio Website
 
 ## Introduction
 
-Welcome to Dr. Yogesh Deshmukh's Portfolio Website! This website showcases the skills, projects, study material and experiences of Dr. Yogesh Deshmukh.
+Welcome to Miss.Akshada Deokar Portfolio Website! This website showcases the skills, projects of Miss.Akshada Deokar.
 
-## About Dr. Yogesh Deshmukh
+## About Miss.Akshada Deokar.
 
-Dr. Yogesh Deshmukh is a passionate and dedicated Teacher. 
+Miss.Akshada Deokar is a passionate and dedicated Student. 
 
 ## Technologies Used
 
