@@ -1,5 +1,5 @@
 var type = new Typed('.typing-text', {
-  strings: ['an Aspiring IT Engineer', 'a passionate programmer'],
+  strings: ['an Aspiring Mechatronics Engineer', 'a passionate programmer'],
   typeSpeed: 120,
   loop: true
 });
